@@ -1,0 +1,18 @@
+:root{
+    --white-color:white;
+    --black-color:black;
+    --primary-color:#de3241;
+    --text-color:#222;
+    --background-color:#282B2E;
+    --gray-color:#C2C4C6;
+}
+/* h4{
+    font-size:40px;
+    font-weight: 700;
+    font-style:italic;
+    font-family:serif;
+    color: var( --primary-color);
+} */
+.border-light{
+    border: 2px solid #999;
+}

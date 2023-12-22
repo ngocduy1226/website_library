@@ -1,0 +1,74 @@
+/* PC */
+@media (min-width:64em) {
+   .footer-p {
+       padding-left: 27rem;
+    }  
+}
+/* tablet && mobile */
+@media (max-width:63.9375em) {
+
+    .menu-p {
+    padding-left: 20px;
+    padding-right: 20px;
+    }
+    .section-menu-pl, .menu-p {
+        padding-left: 40px;
+        padding-right: 40px;
+     }
+     .item-menu-buy {
+        display: flex;
+        justify-content: center;
+      
+     }
+     .login-dblock {
+        display: inline-block;
+     }
+
+     .wrap-login {
+        padding-left: 20px;
+        padding-right: 20px;
+     }
+ 
+
+     .new .new-item .new-item-nd{
+        padding:30px !important;
+    }
+    h6 {
+    font-size: 1.2rem;
+    }
+   .new1 .new-item, .new2 .new-item{
+       margin-bottom: 0;
+   }
+   .form-search {
+      width: 20rem;
+   }
+   .thumbnail img {
+      width: 449px;
+   }
+/*  
+   .add_connect-item {
+      margin-top: 10px;
+   } */
+ 
+   .menu_detail-content {
+      margin-top: 30px;
+   } 
+}
+
+/* Tablet */
+@media (min-width:46.25em) and (max-width:63.9375em) {
+     .footer-p {
+        padding-left: 14rem;
+    }
+
+    
+}
+
+/* điện thoại */      
+   @media (max-width:46.1875em){
+     .footer-p {
+        padding-left: 6rem;
+    }
+    
+}
+
